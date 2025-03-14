@@ -6,7 +6,7 @@
 
 **项目链接：**
 
-[GitHub链接](https://github.com/cdzg-zzk/OS205-KernelCodeMapping/tree/main)
+[内核代码映射用户态GitHub链接](https://github.com/cdzg-zzk/OS205-KernelCodeMapping/tree/main)
 
 **导师信息：**
 
