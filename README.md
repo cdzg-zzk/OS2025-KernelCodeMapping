@@ -16,11 +16,11 @@ https://github.com/cdzg-zzk/OS2025-KernelCodeMapping
 
 **难度：**
 
-中
+高
 
 **分类：**
 
-未归类运行时支撑
+未归类运行时支撑、新型模块组件
 
 **题目要求：**
 
